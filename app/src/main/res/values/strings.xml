@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">푸피</string>
+
+    <string name="intro">급할땐 푸피!</string>
+
+    <string name="admob_app_id">ca-app-pub-6204290995414147~5060310325</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-6204290995414147/1801637889</string>
+
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

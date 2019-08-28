@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41889988973",
+    "firebase_url": "https://seoultoilet-ae6fa.firebaseio.com",
+    "project_id": "seoultoilet-ae6fa",
+    "storage_bucket": "seoultoilet-ae6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41889988973:android:ac37caeaefff043c",
+        "android_client_info": {
+          "package_name": "com.giistone.seoultoilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41889988973-6966lu7rgv997ki3qiaon2mrbnc5vvk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giistone.seoultoilet",
+            "certificate_hash": "6622063b6e05f7752def487e5e93495d150c9284"
+          }
+        },
+        {
+          "client_id": "41889988973-7uhd13ning7c9oqihjk5et77bjmsmmj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWgLy-sSa2vKE7TRj06hnl5A_UNkc0X3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41889988973-7uhd13ning7c9oqihjk5et77bjmsmmj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
